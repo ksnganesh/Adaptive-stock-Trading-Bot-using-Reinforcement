@@ -1,0 +1,11 @@
+pandas
+numpy
+ta
+matplotlib
+gym
+stable-baselines3
+tensorflow
+pandas_datareader
+yfinance
+shimmy==2.0
+scikit-learn
