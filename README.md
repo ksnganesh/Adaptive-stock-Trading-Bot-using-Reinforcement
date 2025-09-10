@@ -20,4 +20,3 @@ A hybrid **stock trading bot** that combines **deep forecasting (GRU)** with **R
 - **Training Convergence:** 24% faster  
 - **Forecasting Accuracy:** GRU outperformed baseline LSTMs  
 
-## 📂 Repository Structure  
