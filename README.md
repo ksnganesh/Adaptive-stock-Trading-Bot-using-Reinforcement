@@ -1,4 +1,3 @@
-# Adaptive-stock-Trading-Bot-using-Reinforcement
 # Adaptive Stock Trading Bot 🧠📈  
 
 A hybrid **stock trading bot** that combines **deep forecasting (GRU)** with **Reinforcement Learning (PPO)** to adaptively learn profitable trading strategies.  
